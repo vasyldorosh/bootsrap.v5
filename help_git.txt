@@ -1,0 +1,5 @@
+git status - переглянути статус файлів
+git add . - додати всі файли до коміту
+git commit -am 'comment ...' - зафіксувати зміни
+git push - залити в git репо
+git pull - стягнути з репо
